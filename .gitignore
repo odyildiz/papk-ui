@@ -30,9 +30,6 @@ pids
 # Build output
 dist/
 
-# Local development database
-db.json
-
 # Docker
 Dockerfile.orig
 
